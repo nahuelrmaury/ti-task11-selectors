@@ -1,11 +1,10 @@
-# Gismeteo Web Scraping Readme
+# Gismeteo Web Scraping
 
 In this task, we will use Selenium and Python to interact with the Gismeteo website (https://www.gismeteo.com/) and perform various actions like finding elements and navigating to different pages.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Task Steps](#task-steps)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -29,7 +28,3 @@ Here are the steps we'll perform using Selenium:
 12. Find the element for the currently selected weekday.
 13. Find both temperatures for the currently selected weekday.
 14. Find the same elements using CSS selectors where possible.
-
-## Conclusion
-
-This readme provides an overview of the tasks to be performed using Selenium on the Gismeteo website.
